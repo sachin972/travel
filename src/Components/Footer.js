@@ -12,16 +12,16 @@ const Footer = () => {
     <footer className="bg-gray-200 py-10 w-full">
       <div className="container mx-auto flex flex-col md:flex-row justify-between text-gray-700 w-full">
         <div className="mb-6 md:mb-0 w-full md:w-1/4">
-          <h2 className="text-lg font-bold">Outdoor Switzerland AG</h2>
-          <p>Hauptstrasse 15</p>
-          <p>3800 Matten bei Interlaken</p>
-          <p>Switzerland</p>
+          <h2 className="text-lg font-bold">OUTDOORZZZ</h2>
+          <p>Address line 1</p>
+          <p>Address line 2</p>
+          <p>India </p>
           <p>
             <a href="mailto:info@outdoor.ch" className="text-blue-600">
-              info@outdoor.ch
+              info@OUTDOORZZZ.ch
             </a>
           </p>
-          <p>0041 (0)33 224 07 07</p>
+          <p>0091 1234567890</p>
         </div>
 
         <div className="mb-6 md:mb-0 w-full md:w-1/4">
@@ -70,7 +70,7 @@ const Footer = () => {
             </li>
             <li>
               <a href="#" className="hover:underline">
-                The Outdoor Academy
+                The OUTDOORZZZ Academy
               </a>
             </li>
             <li>
@@ -78,21 +78,21 @@ const Footer = () => {
                 Millet Expert Store
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#" className="hover:underline">
                 Outdoor Awards
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#" className="hover:underline">
-                Outdoor Blog
+                OUTDOORZZZ Blogs
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#" className="hover:underline">
                 Swisstainable
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#" className="hover:underline">
                 Media
@@ -103,7 +103,7 @@ const Footer = () => {
                 Jobs
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#" className="hover:underline">
                 Geschäftsbericht 2021
               </a>
@@ -122,7 +122,7 @@ const Footer = () => {
               <a href="#" className="hover:underline">
                 Reportage: General Assembly Outdoor
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
 
@@ -148,7 +148,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="text-center text-gray-600 mt-6">
-        <p>© 2024 Outdoor Switzerland AG</p>
+        <p>© 2024 OUTDOORZZZ India</p>
         <p>Language selection: English</p>
       </div>
     </footer>

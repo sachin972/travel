@@ -187,7 +187,7 @@ const Navbar = () => {
             className="font-bold text-xl cursor-pointer"
             onClick={() => navigate("/")}
           >
-            O+ OUTDOOR
+            OUTDOORZZZ
           </div>
           <div className="flex space-x-6 ml-8">
             <div

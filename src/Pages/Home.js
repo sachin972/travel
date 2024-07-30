@@ -15,15 +15,21 @@ export default function Home() {
       <div className="w-1/2 mx-auto my-20">
         <h1 className="font-extrabold text-4xl my-5">
           {" "}
-          Welcome to OUTDOORZZZ{" "}
+          Outdoor Adventures: Your Gateway to Unforgettable Experiences
         </h1>
         <p>
           We are to provide the best experiences for your trips and holidays.
         </p>
         <p>
           {" "}
-          Your outdoor adventure starts here // Outdoor is .. // Playground of
-          GenZZZ // Outdoor is the real/healthy fun{" "}
+          Embark on an exhilarating journey with us, where your outdoor
+          adventure truly begins. At Outdoor, we believe in providing the best
+          experiences for your trips and holidays. Our playground, tailored for
+          Gen Z, offers a unique blend of real, healthy fun that connects you
+          with nature and fosters unforgettable memories. Whether you're hiking,
+          camping, or exploring new terrains, we ensure that every moment is
+          filled with excitement and discovery. Join us and redefine your idea
+          of adventure!
         </p>
       </div>
       <MustDos mustDos={data.summer} />
